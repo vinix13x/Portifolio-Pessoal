@@ -5,6 +5,54 @@ function projetos(section) {
     <div class="content">
       <div class="cards">
         <div class="card">
+          <h3>EducationnApp UX UI</h3>
+          <div class="img-wrapper">
+            <img
+            src="./assets/images/projects/Educationn.png"
+            alt="GIF do Educatio."
+            />
+            <div class="buttons">
+             
+            </div>
+          </div>
+          <p>
+          Desenvolvi um aplicativo educacional com o objetivo de facilitar a vida dos estudantes, permitindo que acompanhem suas matérias diárias, horários de aula e notas de forma prática e centralizada.
+          </p>
+          <p>Figma</p>
+        </div>
+        <div class="card">
+          <h3>Doctor You UX UI</h3>
+          <div class="img-wrapper">
+            <img
+              src="./assets/images/projects/doctor.png"
+              alt="Imagem do projeto DoctorYou."
+            />
+            <div class="buttons">
+             
+            </div>
+          </div>
+          <p>
+           Na empresa onde atuo atualmente, desenvolvi um projeto inovador voltado para a otimização do atendimento médico via telemedicina, conectando clínicos gerais e especialistas de forma mais eficiente.
+          </p>
+          <p>Figma</p>
+        </div>
+        <div class="card">
+          <h3>BarberPro (Em desenvolvimento)</h3>
+          <div class="img-wrapper">
+            <img
+              src="./assets/images/projects/Barberpro.png"
+              alt="Imagem do projeto DoctorYou."
+            />
+            <div class="buttons">
+             
+            </div>
+          </div>
+          <p>
+          Atualmente, estou desenvolvendo um aplicativo para agendamento de cortes de cabelo, trazendo um design inovador e atraente, focado em proporcionar uma experiência prática e intuitiva para clientes e profissionais da área.
+          </p>
+          <p>Figma</p>
+        </div>
+        <div class="card">
           <h3>Cronometro</h3>
           <div class="img-wrapper">
             <img
